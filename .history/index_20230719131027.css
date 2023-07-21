@@ -1,0 +1,14 @@
+html, body{
+    padding: 0;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.301);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#full-content{
+   background-color: white;
+}
+
+

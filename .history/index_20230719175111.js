@@ -1,0 +1,12 @@
+import { initializedApp } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-app.js"
+import { getDatabase } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-database.js"
+
+let appSettings = {
+    "databaseUrl": " https://playground-51efb-default-rtdb.europe-west1.firebasedatabase.app/ "
+}
+
+let app = 
+
+let emailEl = document.getElementById("email-el")
+const inputEl = document.getElementById("subscribe-btn")
+

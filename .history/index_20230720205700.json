@@ -1,0 +1,6 @@
+{
+    "name": "newslett"
+    "action": {
+        "default": "index.html"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "name": "newsletter"
+    "action": {
+        "default": "index.html"
+    }
+}

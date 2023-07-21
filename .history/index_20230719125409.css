@@ -1,0 +1,11 @@
+html, body{
+    padding: 0;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.301);
+    display: grid;
+}
+
+#full-content{
+    width: 5;
+}
+

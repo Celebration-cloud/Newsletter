@@ -1,0 +1,6 @@
+{
+    "name": "Newsletter sign-up form with success message"
+    "action": {
+        "default_popup": "index.html"
+    }
+}

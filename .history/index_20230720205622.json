@@ -1,0 +1,6 @@
+{
+    "name": "ne"
+    "action": {
+        "default": "index.html"
+    }
+}

@@ -1,0 +1,41 @@
+html, body{
+    padding: 0;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.301);
+    display: flex;
+    justify-content: center;
+    user-select: none;
+}
+
+#container{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+#sign-up{
+    width: 230px;
+    aspect-ratio: 2;
+}
+
+#home-page{
+    width: 55%;
+    margin: auto;
+    flex: 1 1 55%;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+#list-icon{
+    padding-right: 10px;
+}
+
+li{
+    t
+}
