@@ -37,8 +37,9 @@ inputEL.addEventListener("click", function() {
     item.push(list)
     if (list === "") {
         inputEL.innerHTML = `<p> Please input a valid email </P>`
+    }else{
+        successful()
     }
-     successful()
     if(localStorage.getItem("email") == null){
         localStorage.setItem("email", "").successful()
     }else{
